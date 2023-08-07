@@ -14,5 +14,3 @@ No Vyva Apoiar, trabalhamos em iniciativas que têm como objetivo melhorar a vid
 Através do Vyva Empresas, colaboramos com outras empresas para maximizar seu impacto positivo no planeta. Desenvolvemos soluções tecnológicas personalizadas que visam ao crescimento sustentável e ao bem-estar social.
 
 Junte-se a nós nessa jornada de transformação!
-
-Para mais informações, acesse nosso site: [www.vyvatech.com.br](http://www.vyvatech.com.br)
