@@ -7,7 +7,7 @@
 <h6 align="center">
   <a href="https://education.vyva.tech">🏰 Website</a>
   ·
-  <a href="https://blog.vyva.tech">📰 Blog</a>
+  <a href="">📰 Blog - em breve</a>
 </h6>
 
 <p align="center">
