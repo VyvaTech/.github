@@ -1,16 +1,27 @@
-# VyvaTech - Tecnologia para um mundo melhor
+<h3 align="center">
+	<img src="[https://draculatheme.com/static/icons/used/pack-1/045-dracula.svg](https://imgur.com/e7BRG49.png)" width="100" alt="Logo"/>
+    <br/>
+	VyvaTech Education
+</h3>
 
-A VyvaTech é uma startup dedicada a ajudar o máximo de pessoas por meio do uso da tecnologia, com a missão de tornar o mundo um lugar melhor e mais inclusivo.
+<h6 align="center">
+  <a href="https://education.vyva.tech">🏰 Website</a>
+  ·
+  <a href="https://blog.vyva.tech">📰 Blog</a>
+</h6>
 
-## Nossos Projetos
+<p align="center">
+  O Seu Portal Para o Conhecimento 🌍
+</p>
 
-### Vyva Eco: Preservação do Meio Ambiente
-Nossa equipe está empenhada em desenvolver soluções tecnológicas que contribuam para a preservação do meio ambiente. Através do Vyva Eco, buscamos minimizar o impacto negativo no planeta e incentivar a sustentabilidade.
+<hr/>
 
-### Vyva Apoiar: Transformando Vidas
-No Vyva Apoiar, trabalhamos em iniciativas que têm como objetivo melhorar a vida das pessoas. Utilizamos a tecnologia para criar projetos e serviços que proporcionem oportunidades e auxiliem quem mais precisa.
+A **VyvaTech** é uma startup dedicada a ajudar o máximo de pessoas por meio do uso da **tecnologia**, com a missão de tornar o mundo um lugar **melhor** e mais **inclusivo**.
 
-### Vyva Empresas: Maximizando o Impacto Positivo
-Através do Vyva Empresas, colaboramos com outras empresas para maximizar seu impacto positivo no planeta. Desenvolvemos soluções tecnológicas personalizadas que visam ao crescimento sustentável e ao bem-estar social.
+🪴 Junte-se a nós nessa jornada de transformação!
 
-Junte-se a nós nessa jornada de transformação!
+> This organization tracks the development of all themes, features, and code samples created and active for maintainers/developers.
+
+#### Links úteis
+
+- 🆘 Suporte [**discord**](https://discord.gg/VktkEVqN5X);
