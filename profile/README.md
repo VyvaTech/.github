@@ -20,7 +20,7 @@ A **VyvaTech** é uma startup dedicada a ajudar o máximo de pessoas por meio do
 
 🪴 Junte-se a nós nessa jornada de transformação!
 
-> This organization tracks the development of all themes, features, and code samples created and active for maintainers/developers.
+>  Acreditamos que o conhecimento é o maior recurso que você pode possuir.
 
 #### Links úteis
 
