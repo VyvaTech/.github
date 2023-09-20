@@ -1,5 +1,5 @@
 <h3 align="center">
-	<img src="[https://draculatheme.com/static/icons/used/pack-1/045-dracula.svg](https://imgur.com/e7BRG49.png)" width="100" alt="Logo"/>
+	<img src="https://imgur.com/e7BRG49.png" width="100" alt="Logo"/>
     <br/>
 	VyvaTech Education
 </h3>
