@@ -24,4 +24,4 @@ A **VyvaTech** é uma startup dedicada a ajudar o máximo de pessoas por meio do
 
 #### Links úteis
 
-- [**discord**](https://discord.gg/VktkEVqN5X);
+- [**discord**](https://discord.gg/VktkEVqN5X)
