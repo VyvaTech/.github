@@ -1,27 +1,18 @@
 <h3 align="center">
-	<img src="https://imgur.com/e7BRG49.png" width="100" alt="Logo"/>
+	<img src="https://imgur.com/S7s93TL.png" width="100" alt="Logo"/>
     <br/>
-	VyvaTech Education
+	VyvaTech
 </h3>
 
 <h6 align="center">
-  <a href="https://education.vyva.tech">🏰 Website</a>
-  ·
-  <a href="">📰 Blog - em breve</a>
+  <a href="https://education.vyva.tech">Website</a>
 </h6>
 
 <p align="center">
-  O Seu Portal Para o Conhecimento 🌍
+  Linha de Código por Linha de Sucesso </> oi@vyva.tech
 </p>
 
 <hr/>
-
-A **VyvaTech** é uma startup dedicada a ajudar o máximo de pessoas por meio do uso da **tecnologia**, com a missão de tornar o mundo um lugar **melhor** e mais **inclusivo**.
-
-🪴 Junte-se a nós nessa jornada de transformação!
-
->  Acreditamos que o conhecimento é o maior recurso que você pode possuir.
-
-#### Links úteis
-
-- [**discord**](https://discord.gg/VktkEVqN5X)
+<p align="center">
+Inovação, comprometimento e soluções personalizadas para o sucesso do seu negócio.
+</p>
