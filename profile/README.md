@@ -5,7 +5,7 @@
 </h3>
 
 <h6 align="center">
-  <a href="https://education.vyva.tech">Website</a>
+  <a href="https://vyva.tech">Website</a>
 </h6>
 
 <p align="center">
